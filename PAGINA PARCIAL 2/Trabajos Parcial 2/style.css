@@ -1,0 +1,108 @@
+.Titulo{
+    text-align: center;
+}
+
+.Buttons{
+    text-align: center;
+}
+
+.Buttons a{
+    text-decoration: none;
+    color: white;
+}
+
+.Buttons button{
+    background-color: tomato;
+    border: none;
+    border-radius: 15px;
+    /*Espacio de arriba y abajo del boton (por dentro)*/
+    padding-block: 1%;
+    /*Hace el tamaño del boton para la izquierda y derecha*/
+    padding: 10px 19px;
+}
+
+.Buttons button:hover{
+    background-color: black;
+}
+
+.Fondo{
+    text-align: center;
+    background-color: tomato;
+    /*hace el texto hacia abajo*/
+    margin-top: 35px;
+    /*hace espacio adentro*/
+    padding: 2.5%;
+    /*hace espacio hacia la derecha*/
+    margin-right: 10%;
+    /*gace espacio hacia la izquierda*/
+    margin-left: 10%;
+    border-radius: 18px;
+}
+
+.Fondo h1{
+    text-align: center;
+}
+
+.Fondo p {
+    word-wrap: break-word; /* Permite que las palabras se dividan automáticamente */
+    font-size: 20px;
+    text-align: center;
+}
+
+.Fondo ul{
+    font-weight: bold;
+}
+
+.Fondo-Tabla{
+    margin-top: 10px;
+    background-color: tomato;
+    padding-block: 1%;
+    border-radius: 18px;
+     /*hace espacio hacia la derecha*/
+     margin-right: 50%;
+     /*gace espacio hacia la izquierda*/
+     margin-left: 10%;
+}
+
+.Tb-Problema h1{
+    text-align: center;
+}
+
+.Tb-Problema table{
+    background-color: black;
+    color: white;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 60px;
+    padding: 2.5%;
+    border-radius: 18px;
+}
+
+.Fondo-Problema{
+    margin-top: 10px;
+    background-color: tomato;
+    padding-block: 1%;
+    border-radius: 18px;
+     /*hace espacio hacia la derecha*/
+     margin-right: 50%;
+     /*gace espacio hacia la izquierda*/
+     margin-left: -0.2%;
+     /*Deja un espacio al final de la pagina*/
+     margin-bottom: 10%;
+}
+
+.Fondo-Problema{
+   margin-left: 50.9%;
+   margin-right: 10%;
+   margin-top: -16.8%;
+   padding-block: 20.5px;
+}
+
+
+.Fondo-Problema h1{
+    text-align: center;
+}
+
+.Fondo-Problema form{
+    text-align: center;
+}
